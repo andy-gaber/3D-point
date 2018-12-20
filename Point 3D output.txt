@@ -1,0 +1,66 @@
+run:
+
+* SHAPES *
+
+Class:           Sphere
+Center:          (2,-8,5)
+Radius:          13
+Volume:          9202.772079915701
+Surface area:    2123.7166338267
+
+Class:           Parallelepiped
+Center:          (7,2,9)
+Length:          37
+Width:           12
+Height:          9
+Volume:          3996.0
+Surface area:    1770.0
+
+Class:           Cylinder
+Center:          (3,-4,5)
+Radius:          11
+Height:          13
+Volume:          4941.725244096745
+Surface area:    1658.7609210954106
+
+Class:           Cone
+Center:          (-5,2,-1)
+Radius:          10
+Height:          14
+Volume:          1466.076571675237
+Surface area:    854.6593026135987
+
+-------------------------------------
+
+* ASCENDING BY VOLUME *
+
+Class:      Cone
+Volume:     1466.076571675237
+
+Class:      Parallelepiped
+Volume:     3996.0
+
+Class:      Cylinder
+Volume:     4941.725244096745
+
+Class:      Sphere
+Volume:     9202.772079915701
+
+-------------------------------------
+
+* DESCENDING BY DISTANCE FROM ORIGIN *
+
+Class:          Parallelepiped
+Distance:       11.575836902790225
+
+Class:          Sphere
+Distance:       9.643650760992955
+
+Class:          Cylinder
+Distance:       7.0710678118654755
+
+Class:          Cone
+Distance:       5.477225575051661
+
+BUILD SUCCESSFUL (total time: 0 seconds)
+
